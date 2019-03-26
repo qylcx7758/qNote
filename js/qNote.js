@@ -2,7 +2,7 @@ var noteObj={
     showNotePad:true,
     showPerfomanceTime:true,
     //
-    showLog:true
+    // showLog:true
 };
 
 
